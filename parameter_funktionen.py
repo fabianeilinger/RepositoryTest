@@ -11,4 +11,4 @@ def Parameter(param1, param2, param3):
 
     return param1,param2,param3
 
-print(Parameter(None, None, None))
+print("Hallo", Parameter(None, None, None))
